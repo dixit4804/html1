@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="view port content"=width=device-width">
+<title>my favorite tea</title>
+</head>
+<body>
+<h1>HTML LEARNERS</h1>
+<h2>easy to learn</h2>
+<p>
+my name is <em>dixit</em>shah
+</p>
+<!---unordered list--->
+<ul>
+<li>water</li>
+<li>milk</li>
+<li>tea</li>
+<li>sugar</li>
+</ul>
+<!---ordered list--->
+<ol>
+<li>take 2 cup water</li>
+<ul>
+<li>boil the water</li>
+</ul>
+<li> take 1 cup milk </li>
+<ul>
+<li>add milk in water</li>
+</ul>
+<li>add 1 small spoon tea in mix liquid </li>
+<li>add 70gm sugar in mix liquid </li>
+</ol>
+</html>
