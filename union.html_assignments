@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>my website about students union</title>
+</head>
+<body>
+     <h1><strong>name of unions</strong></h1><br></br>
+     <h2>(ABVP) Akhil bhartiya vidhyarthi parishad</h2>
+     <h2>(UPSU) utter pradesh stidents union</h2>
+     <h2>(INSO) indian national stdents organitaion</h2>
+     <h2>(AISI) all india students associations</h2> 
+     <h2>(NSUI) national students union of india</h2>
+     <h2>(SOI) students organitions of india</h2)
+     <h4> and many more available on google</h4>
+     <h1><a href="http://www.gogle.com">go to google.com</h1></a>
+     <h2>click on this and type chrt of html tags</h2>
+     <p>
+     <u><i><strong>The National Students</u></i></strong>' Union of India (NSUI) is the student wing of the Indian National Congress, established on 9 April 1971. The organisation was founded by Indira Gandhi after merging Kerala Students Union and West Bengal State Chhatra Parishad to form a national students' organisation.
+     </p>
+     <img src="data:image/jpeg;base64,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" border="10">
+     <ol>
+        <li> types of union</li>
+        <li> students union</li>
+        <li> kisaaan union</li>
+        <li> worker union</li>
+     </ol>
+     <ul>
+        <li>coach</li>
+        <ul> <li> visionary</li>
+             <li>auomatic</li>
+        </ul>
+     <li>akhil bharrtiyavidhyatrhi parishad<li>
+     <li> utter praedes students union</li>
+     </ul>
+     <h2>etc.....</h2>
+     </ul>
+    <h1> now unions are</h1>
+    <table border="30" cellpadding="30">
+       <tr>
+         <th><i><strong>ABVP</strong></i></th>
+       <th><i>upsu</i></th>
+       </tr>
+
+       <tr>
+       <td>RSS</td>
+         <td><strong>govt</strong></td>
+       </tr>
+
+</table>
+</body>
+</html>
